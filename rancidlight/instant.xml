@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instant>
+  <Editor id="17" mixer-width="Wide" zoom-focus="ZoomFocusEdit" zoom="3400" snap-to="SnapToTimecodeFrame" snap-mode="SnapMagnetic" internal-snap-to="SnapToTimecodeFrame" internal-snap-mode="SnapMagnetic" pre-internal-snap-to="SnapToTimecodeFrame" pre-internal-snap-mode="SnapNormal" edit-point="EditAtPlayhead" visible-track-count="-1" playhead="0" left-frame="0" y-origin="40.000000" show-measures="yes" maximised="no" follow-playhead="yes" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseDraw" join-object-range="no" show-editor-mixer="yes" show-editor-list="yes" editor-list-page="1" show-marker-lines="no" nudge-clock-value="240000">
+    <geometry x-size="1920" y-size="1025" x-pos="-2" y-pos="-3" edit-horizontal-pane-pos="1597" notebook-shrunk="0" edit-vertical-pane-pos="813"/>
+    <Buttons>
+      <Press/>
+      <Release/>
+    </Buttons>
+    <Selection>
+      <RouteView id="837"/>
+    </Selection>
+    <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
+  </Editor>
+  <Mixer narrow-strips="no" show-mixer="no" maximised="no"/>
+  <Meterbridge show-meterbridge="no">
+    <geometry x-size="600" y-size="400" x-pos="1" y-pos="1"/>
+  </Meterbridge>
+</instant>
